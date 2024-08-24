@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background-image: url('/images/background_1.jpeg');
+    background-image: url('http://127.0.0.1:5502/images/background_1.jpeg');
     background-size: cover;
     padding: 30px;
     border-radius: 15px;
